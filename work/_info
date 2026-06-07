@@ -1,0 +1,409 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/MODELSIM
+vadd_sub_8bit
+Z0 !s110 1780837515
+!i10b 1
+!s100 dI;8E?;G:I[fkV1ghP?T:0
+IEb`ZhW2Z_m?TL17LUDX6V2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/MODELSIM/ALU
+w1780836288
+8D:\MODELSIM\ALU\add_sub_8bit.v
+FD:\MODELSIM\ALU\add_sub_8bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1780837515.000000
+!s107 D:\MODELSIM\ALU\add_sub_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\add_sub_8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_control_unit
+R0
+!i10b 1
+!s100 gK==QgjNg?kVGILOjZiJi1
+IHEj1YbCU]<^I0?UXAJY<O2
+R1
+R2
+w1780836277
+8D:\MODELSIM\ALU\alu_control_unit.v
+FD:\MODELSIM\ALU\alu_control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\alu_control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\alu_control_unit.v|
+!i113 1
+R5
+R6
+valu_top
+R0
+!i10b 1
+!s100 M7gV8k;=aFNno[<@Nj5W91
+INhQ>E]dDDYAg<79<EHl?D0
+R1
+R2
+w1780836309
+8D:\MODELSIM\ALU\alu_top.v
+FD:\MODELSIM\ALU\alu_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\alu_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\alu_top.v|
+!i113 1
+R5
+R6
+vand8bit
+Z7 !s110 1780837514
+!i10b 1
+!s100 <fNNC?7aXlO9MQ0QRX1RV2
+In5f7RRlC2RVBET0Q?@h;A0
+R1
+R2
+w1780836149
+8D:\MODELSIM\ALU\and8bit.v
+FD:\MODELSIM\ALU\and8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1780837514.000000
+!s107 D:\MODELSIM\ALU\and8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\and8bit.v|
+!i113 1
+R5
+R6
+vdff
+!s110 1780837611
+!i10b 1
+!s100 I9^FaN:8ho;>effQA^iDB3
+Icm2_FN0[Y=?TjSa2B>?M;3
+R1
+R2
+w1780837609
+8D:\MODELSIM\ALU\dff.v
+FD:\MODELSIM\ALU\dff.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1780837611.000000
+!s107 D:\MODELSIM\ALU\dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\dff.v|
+!i113 1
+R5
+R6
+vfac
+R7
+!i10b 1
+!s100 aoSeZ1[5hBfj1<JkaQ;<k2
+I4XSo3MdcB[=;U0Od?lAZk1
+R1
+R2
+w1780836199
+8D:\MODELSIM\ALU\fac.v
+FD:\MODELSIM\ALU\fac.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\fac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\fac.v|
+!i113 1
+R5
+R6
+vmult_8bit
+R0
+!i10b 1
+!s100 VIYlhT3e9OmNQbi5aX=RD1
+I0cQY6AA3EhI`aETMY<5FZ0
+R1
+R2
+w1780836295
+8D:\MODELSIM\ALU\mult_8bit.v
+FD:\MODELSIM\ALU\mult_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\mult_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\mult_8bit.v|
+!i113 1
+R5
+R6
+vmux2to1_1bit
+R7
+!i10b 1
+!s100 AoXM8=d3eNVFNX7;6Zz[m0
+I<SPM0e<3o1=0YFgiP2BG22
+R1
+R2
+w1780836174
+8D:\MODELSIM\ALU\mux2to1_1bit.v
+FD:\MODELSIM\ALU\mux2to1_1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\mux2to1_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\mux2to1_1bit.v|
+!i113 1
+R5
+R6
+vmux2to1_8bit
+R7
+!i10b 1
+!s100 GOWhU9=kY>_N>1cmSXXJ_1
+IH2Zk=J15gA9HbnWEI@dD?1
+R1
+R2
+w1780836182
+8D:\MODELSIM\ALU\mux2to1_8bit.v
+FD:\MODELSIM\ALU\mux2to1_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\mux2to1_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\mux2to1_8bit.v|
+!i113 1
+R5
+R6
+vmux4to1_8bit
+R7
+!i10b 1
+!s100 OQcHilYOkI;fHQ<hhe6Sc3
+I<gV6W1@`:;T0NX_oD2Dj30
+R1
+R2
+w1780836191
+8D:\MODELSIM\ALU\mux4to1_8bit.v
+FD:\MODELSIM\ALU\mux4to1_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\mux4to1_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\mux4to1_8bit.v|
+!i113 1
+R5
+R6
+vmux8to1_8bit
+R0
+!i10b 1
+!s100 @4X0llnoZYNWK@Fied6M;3
+I_IE^Jkk]XO8j2Yde55A2V0
+R1
+R2
+w1780836303
+8D:\MODELSIM\ALU\mux8to1_8bit.v
+FD:\MODELSIM\ALU\mux8to1_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\mux8to1_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\mux8to1_8bit.v|
+!i113 1
+R5
+R6
+vor8bit
+R7
+!i10b 1
+!s100 K>azcB@JajIO9E9o8W3c>3
+IQFYh>FCiVCRL0[@o_PkJ43
+R1
+R2
+w1780836156
+8D:\MODELSIM\ALU\or8bit.v
+FD:\MODELSIM\ALU\or8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\or8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\or8bit.v|
+!i113 1
+R5
+R6
+vreg1bit
+R0
+!i10b 1
+!s100 RbMW=OaZoX_:a5TzoVFCh3
+Ib`N7TaTBWmEN2636DYIOh3
+R1
+R2
+w1780836238
+8D:\MODELSIM\ALU\reg1bit.v
+FD:\MODELSIM\ALU\reg1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\reg1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\reg1bit.v|
+!i113 1
+R5
+R6
+vreg8bit
+R0
+!i10b 1
+!s100 `h5Q;T3?1TA39MYXb9zP63
+IU<>M9M`UE`FBHRQ;D75_R1
+R1
+R2
+w1780837125
+8D:\MODELSIM\ALU\reg8bit.v
+FD:\MODELSIM\ALU\reg8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\reg8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\reg8bit.v|
+!i113 1
+R5
+R6
+vshl8bit
+R7
+!i10b 1
+!s100 KE23c>h[4k8gYIH[BJ]<F0
+IT5e6M5acfzaoNI<P`jOEd2
+R1
+R2
+w1780836208
+8D:\MODELSIM\ALU\shl8bit.v
+FD:\MODELSIM\ALU\shl8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\shl8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\shl8bit.v|
+!i113 1
+R5
+R6
+vshr8bit
+R0
+!i10b 1
+!s100 UEFma:f9GEFJ[88jdUlSh2
+I]nl935Rf[iB6R52E9]?5Q2
+R1
+R2
+w1780836218
+8D:\MODELSIM\ALU\shr8bit.v
+FD:\MODELSIM\ALU\shr8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\shr8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\shr8bit.v|
+!i113 1
+R5
+R6
+vtb_alu_top
+R0
+!i10b 1
+!s100 0kkU<Y7CTE;:Jf5Jk8`T>3
+I]cZORN=]B6YU3>oKzQiJ:3
+R1
+R2
+w1780836319
+8D:\MODELSIM\ALU\tb_alu_top.v
+FD:\MODELSIM\ALU\tb_alu_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\tb_alu_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\tb_alu_top.v|
+!i113 1
+R5
+R6
+vtb_module
+R0
+!i10b 1
+!s100 ng7lD0Ch^`NcM<_g@mn;U0
+I6fKcU[BU[??H5LJmLOjl`1
+R1
+R2
+w1780836267
+8D:\MODELSIM\ALU\tb_module.v
+FD:\MODELSIM\ALU\tb_module.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\MODELSIM\ALU\tb_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\tb_module.v|
+!i113 1
+R5
+R6
+vxor8bit
+R7
+!i10b 1
+!s100 Z>e;YBII3Z@;5`OKH:XDE3
+IZ@RfmF67KG9WzWz05CIV@2
+R1
+R2
+w1780836162
+8D:\MODELSIM\ALU\xor8bit.v
+FD:\MODELSIM\ALU\xor8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\MODELSIM\ALU\xor8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\MODELSIM\ALU\xor8bit.v|
+!i113 1
+R5
+R6
